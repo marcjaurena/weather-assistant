@@ -77,7 +77,7 @@ def makeWebhookResultForGetJoke(data):
         "displayText": displayText,
         # "data": data,
         # "contextOut": [],
-        "source": "apiai-weather-webhook-sample"
+        "source": "weather-assistant"
     }
 
 
